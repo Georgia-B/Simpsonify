@@ -1,0 +1,14 @@
+{
+    "name": "simpsonify",
+    "version": "0.0.1",
+    "description": "Provides generic and customisable user test data",
+    "main": "simpsonify.js",
+    "author": "Georgia Barnett",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Georgia-B/Simpsonify.git"
+    },
+    "scripts": {
+        "build": "node simpsonify.js"
+    }
+}
