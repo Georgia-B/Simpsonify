@@ -118,6 +118,54 @@ const Users = [
 	lastName: 'Van Houten',
 	email: 'kirk.van.houten@springfield.com',
 	avatarUrl: 'https://goo.gl/hJHxpx'
+    },
+    {
+	firstName: 'Milhouse',
+	lastName: 'Van Houten',
+	email: 'milhouse.vanhouten@springfield.com',
+	avatarUrl: 'https://goo.gl/K7PPEz'
+    },
+    {
+	firstName: 'Disco',
+	lastName: 'Stu',
+	email: 'disco.stu@springfield.com',
+	avatarUrl: 'https://goo.gl/mSEKbc'
+    },
+    {
+	firstName: 'Lenny',
+	lastName: 'Leonard',
+	email: 'lenny.leonard@springfield.com',
+	avatarUrl: 'https://goo.gl/NHhhWy'
+    },
+    {
+	firstName: 'Kent',
+	lastName: 'Brockman',
+	email: 'kent.brockman@springfield.com',
+	avatarUrl: 'https://goo.gl/SzaSG7'
+    },
+    {
+	firstName: 'Helen',
+	lastName: 'Lovejoy',
+	email: 'helen.lovejoy@springfield.com',
+	avatarUrl: 'https://goo.gl/iQRx87'
+    },
+    {
+	firstName: 'Agnes',
+	lastName: 'Skinner',
+	email: 'agnes.skinner@springfield.com',
+	avatarUrl: 'https://goo.gl/Bh1983'
+    },
+    {
+	firstName: 'Sideshow',
+	lastName: 'Bob',
+	email: 'sideshow.bob@springfield.com',
+	avatarUrl: 'https://goo.gl/dHti8U'
+    },
+    {
+	firstName: 'Hans',
+	lastName: 'Moleman',
+	email: 'hans.moleman@springfield.com',
+	avatarUrl: 'https://goo.gl/YmQ18P'
     }
 ];
 
