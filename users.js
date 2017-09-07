@@ -3,25 +3,25 @@ const Users = [
         firstName: 'Homer',
         lastName: 'Simpson',
         email: 'homer.simpson@springfield.com',
-        avatarUrl: './res/homer.jpg'
+        avatarUrl: 'https://goo.gl/p70v26'
     },
     {
         firstName: 'Marge',
         lastName: 'Simpson',
         email: 'marge.simpson@springfield.com',
-        avatarUrl: './res/marge.jpg'
+        avatarUrl: 'https://goo.gl/xKSWD3'
     },
     {
         firstName: 'Lisa',
         lastName: 'Simpson',
         email: 'lisa.simpson@springfield.com',
-        avatarUrl: './res/lisa.png'
+        avatarUrl: 'https://goo.gl/cw863l'
     },
     {
         firstName: 'Bart',
         lastName: 'Simpson',
         email: 'bart.simpson@springfield.com',
-        avatarUrl: './res/bart.png'
+        avatarUrl: 'https://goo.gl/fyH0JE'
     },
     {
 	firstName: 'Ned',
