@@ -10,6 +10,8 @@ User properties:
 ## Available Methods
 __`getUsers`__
 
+Returns up to 28 unique Simpsons users with default properties and the option to include additional custom properties
+
 Parameters:
  - `count`: desired number of user results returned
  - `customProps`: array of additional properties for each user. Each property object includes the property name and an array of possible values to be randomly selected from
