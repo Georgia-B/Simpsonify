@@ -50,3 +50,7 @@ Parameters:
    }
 ]
 ```
+
+### Example Use Case
+
+![screenshot](https://github.com/Georgia-B/Simpsonify/blob/master/example.png?raw=true)
