@@ -21,7 +21,7 @@ const Users = [
         firstName: 'Bart',
         lastName: 'Simpson',
         email: 'bart.simpson@springfield.com',
-        avatarUrl: 'https://goo.gl/fyH0JE'
+        avatarUrl: 'https://goo.gl/ViB2Gi'
     },
     {
 	firstName: 'Ned',
