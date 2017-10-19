@@ -9,7 +9,7 @@ const Users = [
         firstName: 'Marge',
         lastName: 'Simpson',
         email: 'marge.simpson@springfield.com',
-        avatarUrl: 'https://goo.gl/ULr95z'
+        avatarUrl: 'https://goo.gl/11qEfL'
     },
     {
         firstName: 'Lisa',
@@ -21,7 +21,7 @@ const Users = [
         firstName: 'Bart',
         lastName: 'Simpson',
         email: 'bart.simpson@springfield.com',
-        avatarUrl: 'https://goo.gl/ViB2Gi'
+        avatarUrl: 'https://goo.gl/3JZt63'
     },
     {
 	firstName: 'Ned',
@@ -57,7 +57,7 @@ const Users = [
 	firstName: 'Seymour',
 	lastName: 'Skinner',
 	email: 'seymour.skinner@springfield.com',
-	avatarUrl: 'https://goo.gl/VwWdd7'
+	avatarUrl: 'https://goo.gl/j3LDf1'
     },
     {
 	firstName: 'Montgomery',
@@ -93,7 +93,7 @@ const Users = [
 	firstName: 'Comic Book',
 	lastName: 'Guy',
 	email: 'comicbook.guy@springfield.com',
-	avatarUrl: 'https://goo.gl/sWJVqf'
+	avatarUrl: 'https://goo.gl/2QsNSX'
     },
     {
 	firstName: 'Patty',
@@ -147,13 +147,13 @@ const Users = [
 	firstName: 'Helen',
 	lastName: 'Lovejoy',
 	email: 'helen.lovejoy@springfield.com',
-	avatarUrl: 'https://goo.gl/jRvJjq'
+	avatarUrl: 'https://goo.gl/wXPz2T'
     },
     {
 	firstName: 'Agnes',
 	lastName: 'Skinner',
 	email: 'agnes.skinner@springfield.com',
-	avatarUrl: 'https://goo.gl/pN2wWg'
+	avatarUrl: 'https://goo.gl/V7SsWS'
     },
     {
 	firstName: 'Sideshow',
@@ -165,7 +165,7 @@ const Users = [
 	firstName: 'Hans',
 	lastName: 'Moleman',
 	email: 'hans.moleman@springfield.com',
-	avatarUrl: 'https://goo.gl/8yWdvQ'
+	avatarUrl: 'https://goo.gl/R73Kce'
     }
 ];
 
