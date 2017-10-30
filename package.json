@@ -1,7 +1,7 @@
 {
   "name": "simpsonify",
-  "version": "0.0.1",
-  "description": "Provides generic and customisable user test data",
+  "version": "1.0.0",
+  "description": "Provides generic and customisable user test data with a Simpsons twist",
   "main": "./dist/index.js",
   "author": "Georgia Barnett",
   "repository": {
