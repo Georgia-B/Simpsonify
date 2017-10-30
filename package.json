@@ -1,14 +1,19 @@
 {
-    "name": "simpsonify",
-    "version": "0.0.1",
-    "description": "Provides generic and customisable user test data",
-    "main": "simpsonify.js",
-    "author": "Georgia Barnett",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Georgia-B/Simpsonify.git"
-    },
-    "scripts": {
-        "build": "node simpsonify.js"
-    }
+  "name": "simpsonify",
+  "version": "0.0.1",
+  "description": "Provides generic and customisable user test data",
+  "main": "./dist/index.js",
+  "author": "Georgia Barnett",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Georgia-B/Simpsonify.git"
+  },
+  "scripts": {
+    "build": "babel src --presets babel-preset-es2015 --out-dir dist",
+    "prepublish": "npm run build"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
 }
