@@ -1,13 +1,21 @@
 # Simpsonify
-Provides generic and customisable user test data with a Simpson twist
+Provides generic and customisable user test data with a Simpsons twist
 
-User properties:
+**Check it out live in action [here](https://georgia-b.github.io/simpsonify-example/)!**
+
+## Installation
+
+`npm install simpsonify`
+
+## Usage
+
+User properties available:
 - `firstName`: string - User first name
 - `lastName`: string - User last name
 - `email`: string - User email in valid format
 - `avatarUrl`: string - Valid url to user avatar
 
-## Available Methods
+### Available Methods
 __`getUsers`__
 
 Returns up to 28 unique Simpsons users with default properties and the option to include additional custom properties
