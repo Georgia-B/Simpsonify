@@ -1,7 +1,9 @@
 # Simpsonify
-Provides generic and customisable user test data with a Simpson twist
+Provides generic and customisable user test data with a Simpsons twist
 
-User properties:
+**Check it out live in action [here](https://georgia-b.github.io/simpsonify-example/)!**
+
+User properties available:
 - `firstName`: string - User first name
 - `lastName`: string - User last name
 - `email`: string - User email in valid format
